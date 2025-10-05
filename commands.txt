@@ -1,0 +1,38 @@
+linux commands basic 
+
+permission & navigation
+
+01- ls
+02- cd
+03- pwd
+04- cd .. 
+05- touch name
+06- vi name.sh
+07- rm -r *
+08- mv name name 
+09- cp name name 
+10- rmdir 
+11- cat
+12- chmod 
+13- chown
+14- locate
+15- man
+16- echo
+17- sudo
+18- useradd
+19- passwd
+20- userdel
+
+process management 
+
+01- ps
+02- top
+03- kill
+04- killall
+05- systemctl
+
+searching and filtering 
+
+01- grep
+02- sort
+03- history
