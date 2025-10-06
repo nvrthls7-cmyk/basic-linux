@@ -36,3 +36,20 @@ searching and filtering
 01- grep
 02- sort
 03- history
+
+networking commands 
+
+01- ifconfig 
+02- ping www.google.com
+03- traceroute google.com
+04- nslookup example.com
+05- dig example.com
+06- netstat -tuln
+07- arp -a
+08- ip route
+09- hostname
+10- curl url
+11- sudo tcpdump -i eth0
+12- sudo iftop
+13- mtr google.com
+14- whois example.com
